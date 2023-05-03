@@ -1,4 +1,8 @@
 # http-test
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/En-us-abroad.ogg">
-</iframe>
+https://upload.wikimedia.org/wikipedia/commons/a/a5/En-us-abroad.ogg
+
+<audio controls>
+  <source src="https://upload.wikimedia.org/wikipedia/commons/a/a5/En-us-abroad.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
